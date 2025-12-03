@@ -105,14 +105,8 @@ pytest
 
 ---
 
-# Deployment
-- Docker is used to ensure consistent deployment environments.
-- Frontend: https://astroplanner.yourdomain.com
-
-Backend API: https://api.astroplanner.yourdomain.com
 
 ---
 
 # Authors / Contributions
-- Ben Walsh — (edit as needed)
-- Partner Name — (edit as needed)
+- Ben Walsh 

@@ -1,0 +1,12 @@
+@"
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.git/
+.env
+*.log
+node_modules/
+frontend/
+backend/astroplanner.db
+"@ | Set-Content -Encoding UTF8 backend/.dockerignore

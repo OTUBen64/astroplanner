@@ -1,0 +1,14 @@
+﻿node_modules/
+dist/
+build/
+.vite/
+.git/
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+videos/
+public/videos/
+assets/videos/

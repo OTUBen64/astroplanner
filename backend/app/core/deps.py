@@ -32,7 +32,6 @@ def get_current_user(
 
     try:
         payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
-        # e.g. {"sub": "1", "exp": ...}
         subject = payload.get("sub")
         if subject is None:
             raise credentials_exception

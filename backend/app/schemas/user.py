@@ -15,7 +15,7 @@ class UserRead(UserBase):
     id: int
 
     class Config:
-        from_attributes = True  # use orm_mode in Pydantic v2 style
+        from_attributes = True  # orm_mode in Pydantic v2 style
 
 
 class UserLogin(BaseModel):

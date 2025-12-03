@@ -98,7 +98,7 @@ FastAPI auto-generates OpenAPI docs:
 
 ---
 
-# Testing (if enabled)
+# Testing 
 From `backend/`:
 ```bash
 pytest

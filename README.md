@@ -1,6 +1,7 @@
 # AstroPlanner 🌙🔭
 AstroPlanner is a full-stack web app for planning and tracking astronomy observing sessions. It includes a React (Vite) frontend and a FastAPI backend with a relational database.
-
+## Demo Video
+https://www.youtube.com/watch?v=WGe1oc-r15o
 ## Tech Stack
 - **Frontend:** React + TypeScript + Vite
 - **Backend:** FastAPI (Python)
